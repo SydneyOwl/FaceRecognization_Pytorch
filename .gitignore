@@ -1,0 +1,12 @@
+*/__pycache__
+__pycache__
+.vscode
+video_cache
+nohup.out
+.idea
+.ideb
+.pyc
+lib/*
+ArcFace64.dat
+doc
+asserts

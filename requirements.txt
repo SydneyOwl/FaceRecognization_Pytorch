@@ -1,0 +1,14 @@
+cos_python_sdk_v5==1.9.20
+Flask==2.2.2
+Flask_Cors==3.0.10
+Flask_SocketIO==5.3.1
+gevent_socketio==0.3.6
+numpy==1.22.1
+opencv_python==4.5.5.62
+Pillow==9.2.0
+PyJWT==2.5.0
+qcloud_cos==3.3.6
+SQLAlchemy==1.4.41
+torch==1.10.1
+torchvision==0.11.2
+Werkzeug==2.2.2
